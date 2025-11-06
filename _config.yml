@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "shruti_linkedin.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "I am a Prime Minister's Research Fellow (PMRF) at IIT Bombay developing field-deployable platforms for end-to-end wastewater surveillance. My interdisciplinary research bridges molecular biology, biosensing, and metagenomics for pandemic preparedness. Prior to Ph.D., I was the R&D Lead at Valetude Primus Healthcare (IIT Delhi MedTech spin-off) developing state-of-the-art technologies for infectious disease diagnosis tailored for resource-limited settings. Currently, I am seeking Postdoc opportunities in diagnostics, pathogen surveillance, and policy decision making"
