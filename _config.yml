@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Shruti Ahuja"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Shruti Ahuja"
+description              : &description "I am a Prime Minister's Research Fellow (PMRF) at IIT Bombay developing field-deployable platforms for end-to-end wastewater surveillance. My interdisciplinary research bridges molecular biology, biosensing, and metagenomics for pandemic preparedness. Prior to Ph.D., I was the R&D Lead at Valetude Primus Healthcare (IIT Delhi MedTech spin-off) developing state-of-the-art technologies for infectious disease diagnosis tailored for resource-limited settings. Currently, I am seeking Postdoc opportunities in diagnostics, pathogen surveillance, and policy decision making "   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,22 +26,22 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a Prime Minister's Research Fellow (PMRF) at IIT Bombay developing field-deployable platforms for end-to-end wastewater surveillance. My interdisciplinary research bridges molecular biology, biosensing, and metagenomics for pandemic preparedness. Prior to Ph.D., I was the R&D Lead at Valetude Primus Healthcare (IIT Delhi MedTech spin-off) developing state-of-the-art technologies for infectious disease diagnosis tailored for resource-limited settings. Currently, I am seeking Postdoc opportunities in diagnostics, pathogen surveillance, and policy decision making"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shruti.ahuja@iitb.ac.in" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=CCIlOaUAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-7424-7733"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Shruti-Ahuja-4?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/shruti-ahuja-57630a78"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
