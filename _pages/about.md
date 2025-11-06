@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "I am Shruti Ahuja, a Prime Minister's Research Fellow at IIT Bombay, developing field-deployable end-to-end wastewater surveillance. My inter-disciplinary research bridges molecular biology, biosensing, and metagenomics for pandemic preparedness. Prior to Ph.D., I was the R&D lead at Valetude Primus Healthcare (IIT Delhi MedTech spin-off) developing state-of-the-art technologies for infectious disease diagnosis tailored for low-resource settings. Currently, I am seeking Postdoc opportunities in pathogen surveillance, diagnostics, and policy-decision making."
 author_profile: true
 redirect_from: 
   - /about/
