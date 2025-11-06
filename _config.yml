@@ -12,23 +12,23 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Shruti Ahuja"
 title_separator          : "-"
 name                     : &name "Shruti Ahuja"
-description              : &description "I am a Prime Minister's Research Fellow (PMRF) at IIT Bombay developing field-deployable platforms for end-to-end wastewater surveillance. My interdisciplinary research bridges molecular biology, biosensing, and metagenomics for pandemic preparedness. Prior to Ph.D., I was the R&D Lead at Valetude Primus Healthcare (IIT Delhi MedTech spin-off) developing state-of-the-art technologies for infectious disease diagnosis tailored for resource-limited settings. Currently, I am seeking Postdoc opportunities in diagnostics, pathogen surveillance, and policy decision making "   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "I am a Research Scholar at IIT Bombay developing field-deployable platforms for end-to-end wastewater surveillance. My interdisciplinary research bridges molecular biology, biosensing, and metagenomics for pandemic preparedness. Prior to Ph.D., I was the R&D Lead at Valetude Primus Healthcare (IIT Delhi MedTech spin-off) developing state-of-the-art technologies for infectious disease diagnosis tailored for resource-limited settings. Currently, I am seeking Postdoc opportunities in diagnostics, pathogen surveillance, and policy decision making "   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://shrutiahuja.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "shrutiahuja/shrutiahuja.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "shruti_linkedin.png"
-  name             : "Your Sidebar Name"
+  avatar           : "shruti_linkedin.jpeg"
+  name             : "Shruti Ahuja"
   pronouns         : # example: "she/her"  
-  bio              : "I am a Prime Minister's Research Fellow (PMRF) at IIT Bombay developing field-deployable platforms for end-to-end wastewater surveillance. My interdisciplinary research bridges molecular biology, biosensing, and metagenomics for pandemic preparedness. Prior to Ph.D., I was the R&D Lead at Valetude Primus Healthcare (IIT Delhi MedTech spin-off) developing state-of-the-art technologies for infectious disease diagnosis tailored for resource-limited settings. Currently, I am seeking Postdoc opportunities in diagnostics, pathogen surveillance, and policy decision making"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am a Research Scholar at IIT Bombay developing field-deployable platforms for end-to-end wastewater surveillance. My interdisciplinary research bridges molecular biology, biosensing, and metagenomics for pandemic preparedness. Prior to Ph.D., I was the R&D Lead at Valetude Primus Healthcare (IIT Delhi MedTech spin-off) developing state-of-the-art technologies for infectious disease diagnosis tailored for resource-limited settings. Currently, I am seeking Postdoc opportunities in diagnostics, pathogen surveillance, and policy decision making"
+  location         : "Mumbai, India"
+  employer         : "Indian Institute of Technology, Bombay"
   uri              : # URL
   email            : "shruti.ahuja@iitb.ac.in" 
 
