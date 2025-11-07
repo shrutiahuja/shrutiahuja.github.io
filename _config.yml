@@ -23,7 +23,7 @@ repository               : "shrutiahuja/shrutiahuja.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/shr.png"
+  avatar           : "shr.png"
   name             : "Shruti Ahuja"
   pronouns         : # example: "she/her"  
   bio              : "PhD Research Scholar at IIT Bombay"
@@ -38,7 +38,7 @@ author:
   googlescholar    : #
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-7424-7733"
+  orcid            : "https://orcid.org/0000-0001-7424-7733"
   semantic         : # URL
   pubmed           : #
   researchgate     : "https://www.researchgate.net/profile/Shruti-Ahuja-4?ev=hdr_xprf"
