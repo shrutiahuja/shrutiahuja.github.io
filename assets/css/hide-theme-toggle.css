@@ -15,3 +15,32 @@ a.js-theme-toggle,
 :root {
   color-scheme: light;
 }
+/* Make header nav use flex and keep items visible on wide screens */
+.nav-list {
+  display: flex !important;
+  gap: 18px;                  /* spacing between items */
+  justify-content: center;
+  align-items: center;
+}
+
+/* Slightly reduce nav link padding/size on medium screens */
+@media (max-width: 1200px) {
+  .nav-list li > a {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    font-size: 14px !important;
+  }
+}
+
+/* On small screens, allow wrapping so links remain visible instead of hidden */
+@media (max-width: 900px) {
+  .nav-list {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .nav-list li > a {
+    padding: 6px 8px !important;
+    font-size: 13px !important;
+  }
+}
+
