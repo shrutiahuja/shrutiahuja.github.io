@@ -1,15 +1,12 @@
 ---
-title: "About"
+title: "Shruti Ahuja"
 layout: single
-permalink: /about/
+permalink: /
 author_profile: true
 ---
 
-Hi — I'm Shruti Ahuja.
-
-This page is the short About entry. Please use the **Home** page for my full professional summary:
-
-➡️ [Go to Homepage](/)
-
-(You can expand this page later with more detail, images, or contact info.)
-
+I am a Research Scholar at IIT Bombay developing field-deployable platforms for end-to-end wastewater surveillance. 
+My interdisciplinary research bridges molecular biology, biosensing, and metagenomics for pandemic preparedness. 
+Prior to my Ph.D., I was the R&D Lead at Valetude Primus Healthcare (IIT Delhi MedTech spin-off), developing affordable 
+infectious disease diagnostics for resource-limited settings. I am currently seeking postdoctoral opportunities in 
+diagnostics, pathogen surveillance, and policy decision making.
