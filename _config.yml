@@ -23,12 +23,12 @@ repository               : "shrutiahuja/shrutiahuja.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/shr.png"
+  avatar           : "images/shr.png"
   name             : "Shruti Ahuja"
   pronouns         : # example: "she/her"  
   bio              : "PhD Research Scholar at IIT Bombay"
   location         : "Mumbai, India"
-  employer         : "Indian Institute of Technology, Bombay"
+  employer         : "Indian Institute of Technology,Bombay"
   uri              : # URL
   email            : "shruti.ahuja@iitb.ac.in" 
 
