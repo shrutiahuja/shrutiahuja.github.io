@@ -1,0 +1,27 @@
+---
+title: "Longer amplicons provide better sensitivity for electrochemical sensing of viral nucleic acid in water samples using PCB electrodes"
+collection: publications
+category: manuscripts
+permalink: /publications/2022-05-25-longer-amplicons/
+excerpt: 'Cost-efficient electrochemical detection of long viral amplicons (~500 bp) on unmodified ENIG PCB electrodes for environmental water monitoring in resource-limited settings.'
+date: 2022-05-25
+venue: 'Nature Scientific Reports'
+paperurl: "https://www.nature.com/articles/s41598-022-12818-w"
+Recommended citation: 'Ahuja, S., Kumar, M.S., Nandeshwar, R. et al. Longer amplicons provide better sensitivity for electrochemical sensing of viral nucleic acid in water samples using PCB electrodes. Sci Rep 12, 8814 (2022).'
+---
+## Objective: 
+To investigate electrochemical sensing of viral nucleic acid on unmodified electroless-nickel immersion-gold (ENIG) PCB electrodes, and to evaluate the influence of DNA concentration, amplicon length and ionic strength on electrochemical sensitivity when using methylene blue as the redox mediator.
+
+## Background: 
+The importance of monitoring environmental samples has gained a lot of prominence since the onset of COVID-19 pandemic, and several surveillance efforts are underway using gold standard, albeit expensive qPCR-based techniques. Electrochemical DNA biosensors could offer a potential cost-effective solution suitable for monitoring of environmental water samples in lower middle income countries. Unlike conventional sensors that require surface modification of electrodes, this study uses unmodified ENIG PCB electrodes and thoroughly characterizes the electrochemical response for two DNA fragments of different lengths (117 bp and 503 bp) at different DNA concentrations, while also examining the impact of salt present in the PCR master mix on methylene blue (MB)–DNA interactions.
+
+## Methods:
+Two DNA fragments (117 bp and 503 bp) from bacteriophage Phi6 were amplified and verified by agarose gel electrophoresis. DPV and CV voltammograms were obtained on unmodified ENIG PCB electrodes for 50 µM methylene blue complexed with DNA concentrations ranging from 10–20 ng/µL (0.13–0.26 µM for 117 bp and 0.03–0.06 µM for 503 bp). The effect of ionic strength was evaluated by adding 2 mM MgCl₂ to mimic salt from the PCR master mix. Optical absorbance measurements (600–700 nm) were performed to validate electrochemical trends and confirm MB–DNA interactions.To evaluate sensor utility for environmental monitoring, bacteriophage Phi6 was spiked into lake water samples and concentrated using a PEG-based precipitation method, followed by RNA isolation and RT-PCR. DPV and CV responses were obtained for these unpurified amplicons and validated using qRT-PCR.
+
+## Results: 
+DNA fragments of different lengths showed distinct electrochemical behavior on unmodified ENIG PCB electrodes. At lower DNA concentrations, both DPV and CV measurements showed an increase in peak current, attributed to adsorption of the MB–DNA complex on the electrode surface, with the 503 bp fragment exhibiting higher sensitivity than the 117 bp fragment. At higher DNA concentrations, the peak current decreased due to steric inhibition of the redox activity when methylene blue becomes intercalated between base pairs. Addition of 2 mM MgCl₂ reduced sensitivity at low DNA concentrations by interfering with electrostatic interactions between MB and DNA; however, signal trends at higher DNA concentrations remained unaffected. Optical absorbance measurements (600–700 nm) confirmed these interactions, showing greater hypochromism for the longer fragment at higher DNA concentrations. For environmental validation, Phi6-spiked lake water samples were processed without gel purification, and the 503 bp fragment was successfully detected electrochemically. DPV measurements showed clear separation between test samples and no-template controls, consistent with qRT-PCR results.
+
+## Conclusion: 
+This work demonstrates that longer DNA fragments provide higher electrochemical sensitivity on unmodified ENIG PCB electrodes when methylene blue is used as the redox mediator. DNA fragment length and ionic strength strongly influence electrochemical response, and DNA concentration determines the mechanism of MB–DNA interaction. At lower DNA concentrations (<2ng/µl), the electrochemical current response is dominated by adsorption of MB-DNA on the electrode, whereas at higher DNA concentrations, the electrochemical current response is determined by steric inhibition of redox activity due to intercalation of MB between base pairs of DNA. These electrodes require no surface modification, uses methylene blue as an inexpensive redox dye, and has no special storage requirements, making it suitable for deployment in resource-limited settings. However, assay specificity depends on primer design and PCR optimization, and sensor output should always be interpreted relative to a negative control. 
+
+**Recommended citation:** 'Ahuja, S., Kumar, M.S., Nandeshwar, R. et al. Longer amplicons provide better sensitivity for electrochemical sensing of viral nucleic acid in water samples using PCB electrodes. Sci Rep 12, 8814 (2022).
