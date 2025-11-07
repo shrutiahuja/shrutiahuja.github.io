@@ -1,5 +1,5 @@
 ---
-title: "Shruti's homepage"
+title: "Shruti Ahuja"
 layout: single
 permalink: /
 author_profile: true
