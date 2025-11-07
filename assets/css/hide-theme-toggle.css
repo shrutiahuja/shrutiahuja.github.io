@@ -1,0 +1,17 @@
+/* Hide theme toggle (moon/sun icon) */
+.theme-toggle,
+.theme-switch,
+.color-mode-toggle,
+#theme-toggle,
+button#theme-toggle,
+a.js-theme-toggle,
+.toggle.theme-switch,
+.header__theme-toggle,
+.color-mode-button {
+  display: none !important;
+}
+
+/* Force light mode */
+:root {
+  color-scheme: light;
+}
