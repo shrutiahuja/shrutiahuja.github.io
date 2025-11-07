@@ -1,0 +1,30 @@
+---
+title: "Portable absorbance platform for sensing of viral and bacterial nucleic acid leveraging intercalation with methylene blue: Application for wastewater-based epidemiology"
+collection: publications
+category: manuscripts
+permalink: /publications/portable/
+excerpt: 'Cost-efficient electrochemical detection of long viral amplicons (~500 bp) on unmodified ENIG PCB electrodes for environmental water monitoring in resource-limited settings.'
+date: May 2023
+venue: 'Biosensors & Bioelectronics: X'
+paperurl: "https://doi.org/10.1016/j.biosx.2023.100373"
+Recommended citation: 'Nandeshwar, R., Kulkarni, A., Ahuja, S. et al. Portable absorbance platform for sensing of viral and bacterial nucleic acid leveraging intercalation with methylene blue: Application for wastewater-based epidemiology. Bios X, 14, 100373. (2023).'
+---
+## Objective: 
+To demonstrate a low-cost, portable optical device for detection of viral and bacterial DNA in environmental water samples based on color change due to intercalation with methylene blue (MB), and to evaluate the platform’s utility for wastewater-based epidemiology.
+
+## Background: 
+Methylene blue intercalates with double-stranded DNA (and also binds weakly in grooves), producing a sample color change that can be optically measured. Building on a prior portable absorbance sensor, this work extends that platform to detect nucleic acid from two pathogens (bacteriophage phi6 and E. coli) and from two environmental reservoirs (lake water and wastewater), aiming for a balance between sensitivity, cost and field-deployability.
+
+## Methods:
+Bacteriophage Phi6 was spiked into lake water and concentrated using a PEG-precipitation method, while wastewater samples containing E. coli were processed using standard extraction workflows. RNA from Phi6 and DNA from E. coli served as templates for PCR amplification, generating 503 bp (Phi6) and 166 bp (E. coli) fragments; intermediate-cycle products were also collected to study cycle-dependent signal changes. A portable optical device based on phase-sensitive detection (PSD) was used for measurement, incorporating a red LED and a silicon PIN photodiode positioned in a 3D-printed holder that aligns the microtube precisely with the LED–photodiode pair. The PSD circuitry suppresses background and ambient light interference, enabling high signal-to-noise with a resolution of approximately 68 μV. Samples were incubated with 50 μM methylene blue to allow intercalation (~1 h at 4 °C), and both purified and unpurified PCR products (30 μL) were measured. Sensor output was recorded as normalized transmittance relative to a no-template control, and UV–Vis absorbance measurements were performed in parallel to validate methylene blue–DNA interaction trends.
+
+## Results: 
+Methylene blue concentration influenced sensor performance, with 50 µM selected as optimal; under these conditions, the device achieved a limit of detection of 25.68 nM. For purified amplicons, the normalized sensor output increased linearly with DNA concentration for both E. coli (166 bp) and phi6 (503 bp) fragments (R² > 0.90), and UV–Vis measurements confirmed methylene blue–DNA interaction. The device also detected amplification progress in unpurified PCR products, with phi6 showing distinguishable changes after ~20 cycles and clearer separation beyond 30 cycles. When applied to environmental samples, the sensor successfully differentiated undiluted and ten-fold diluted PCR products from negative controls for both phi6 (spiked lake water) and E. coli (wastewater), while hundred-fold dilutions were not distinguishable.
+
+## Conclusion: 
+A portable, low-cost absorbance platform using methylene blue intercalation and phase-sensitive optical detection can detect DNA from bacterial and viral targets in environmental water samples after PCR amplification. The system achieves practical sensitivity (LOD ≈ 25.68 nM), shows linear response across relevant amplicon concentrations, and is capable of distinguishing unpurified PCR products from negative controls—making it suitable for on-site qualitative analysis and as a candidate method for wastewater-based epidemiology, with further improvements possible in specificity and microfluidic alignment.
+
+**Recommended citation:** 'Nandeshwar, R., Kulkarni, A., Ahuja, S. et al. Portable absorbance platform for sensing of viral and bacterial nucleic acid leveraging intercalation with methylene blue: Application for wastewater-based epidemiology. Bios X, 14, 100373. (2023).'
+
+👉 [View Paper]({{ page.paperurl }})
+
