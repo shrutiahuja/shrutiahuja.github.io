@@ -23,7 +23,7 @@ repository               : "shrutiahuja/shrutiahuja.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/shruti_linkedin.jpeg"
+  avatar           : "images/shr.png"
   name             : "Shruti Ahuja"
   pronouns         : # example: "she/her"  
   bio              : "PhD Research Scholar at IIT Bombay"
