@@ -25,3 +25,6 @@ DNA fragments of different lengths showed distinct electrochemical behavior on u
 This work demonstrates that longer DNA fragments provide higher electrochemical sensitivity on unmodified ENIG PCB electrodes when methylene blue is used as the redox mediator. DNA fragment length and ionic strength strongly influence electrochemical response, and DNA concentration determines the mechanism of MB–DNA interaction. At lower DNA concentrations (<2ng/µl), the electrochemical current response is dominated by adsorption of MB-DNA on the electrode, whereas at higher DNA concentrations, the electrochemical current response is determined by steric inhibition of redox activity due to intercalation of MB between base pairs of DNA. These electrodes require no surface modification, uses methylene blue as an inexpensive redox dye, and has no special storage requirements, making it suitable for deployment in resource-limited settings. However, assay specificity depends on primer design and PCR optimization, and sensor output should always be interpreted relative to a negative control. 
 
 **Recommended citation:** 'Ahuja, S., Kumar, M.S., Nandeshwar, R. et al. Longer amplicons provide better sensitivity for electrochemical sensing of viral nucleic acid in water samples using PCB electrodes. Sci Rep 12, 8814 (2022).
+
+👉 [View Paper]({{ page.paperurl }})
+
