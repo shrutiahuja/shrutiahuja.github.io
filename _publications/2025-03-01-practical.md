@@ -1,7 +1,7 @@
 ---
 title: "Practical considerations for DNA sensing using Faradaic electrochemical impedance spectroscopy on ENIG PCB electrodes"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2025-03-01-practical.md
 excerpt: 'A rapid Faradaic EIS approach using the constant phase element (CPE) on ENIG PCB electrodes enables DNA detection at higher frequencies, avoiding low-frequency degradation of thin gold layers. Preliminary wastewater tests show concentration-dependent CPE changes for complementary targets.'
 date: 2025-03-01
