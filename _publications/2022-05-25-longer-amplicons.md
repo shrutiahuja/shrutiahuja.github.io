@@ -3,7 +3,7 @@ title: "Longer amplicons provide better sensitivity for electrochemical sensing 
 collection: publications
 category: manuscripts
 permalink: /publications/2022-05-25-longer-amplicons/
-excerpt: 'Cost-efficient electrochemical detection of long viral amplicons (~500 bp) on unmodified ENIG PCB electrodes for environmental water monitoring in resource-limited settings.'
+excerpt: 'Cost-efficient electrochemical detection of long viral amplicons (~500 bp) using unmodified ENIG PCB electrodes for environmental water monitoring in resource-limited settings.'
 date: 2022-05-25
 venue: 'Nature Scientific Reports'
 paperurl: "https://www.nature.com/articles/s41598-022-12818-w"
