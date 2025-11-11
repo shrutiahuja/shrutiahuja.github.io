@@ -26,5 +26,5 @@ Methylene blue functions as an effective, low-cost, and easily deployable signal
 
 **Recommended citation:** 'Noim, J.O., Kakadiya, D., Dang, S., Ahuja, S. et al. Methylene blue as a new signal tracer for nucleic acid-based lateral flow assay. Sci Rep 15, 35900 (2025).' 
 
-👉 [View Paper]({{ page.paperurl }})
+
 
