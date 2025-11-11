@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publications/gage/
 excerpt: 'Manuscript under rievew on Validating the field-utility of paper dipstick method for RNA capture and isolation from sub-milliliter wastewater samples using multi-operator two-way ANOVA followed by crossed gage repeatability and reproducibility variability analysis.'
-date: 2025-01-01   # choose any date in the current year; it will not show the month/day
+date: 2025  
 venue: 'Under Review'
 ---
 
