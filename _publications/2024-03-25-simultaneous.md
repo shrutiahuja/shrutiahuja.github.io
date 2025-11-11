@@ -24,7 +24,7 @@ The dipstick protocol successfully captured bacteriophage Phi6, PMMoV and SARS-C
 ## Conclusion: 
 Both the cellulose dipstick (for small volumes) and the PMF method (for larger volumes) provide low-cost, rapid alternatives for microbial concentration and nucleic-acid extraction suitable for wastewater surveillance in resource-limited settings. 
 
-**Recommended citation:** 'Ahuja, S., Tallur, S., & Kondabagil, K. Simultaneous microbial capture and nucleic acid extraction from wastewater with minimal pre-processing and high recovery efficiency. Science of The Total Environment, 918, 170347, (2024).
+**Recommended citation:** 'Ahuja, S., Tallur, S., & Kondabagil, K. Simultaneous microbial capture and nucleic acid extraction from wastewater with minimal pre-processing and high recovery efficiency. Science of The Total Environment, 918, 170347 (2024).
 
 👉 [View Paper]({{ page.paperurl }})
 ---
