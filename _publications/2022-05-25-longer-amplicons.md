@@ -26,5 +26,4 @@ This work demonstrates that longer DNA fragments provide higher electrochemical 
 
 **Recommended citation:** 'Ahuja, S., Kumar, M.S., Nandeshwar, R. et al. Longer amplicons provide better sensitivity for electrochemical sensing of viral nucleic acid in water samples using PCB electrodes. Sci Rep 12, 8814 (2022).
 
-👉 [View Paper]({{ page.paperurl }})
 
