@@ -1,28 +1,47 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Presentations"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% if site.author.googlescholar %} 
+  <div class="wordwrap">
+    You can also find my articles on
+    <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+  </div>
 {% endif %}
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+<br>
+
+<!-- ========================= -->
+<!-- PATENTS SECTION           -->
+<!-- ========================= -->
+<h2>Patents</h2>
+<p>Granted and filed patents with contribution in diagnostics, biosensing, and sample preparation.</p>
+<a href="/patents/">View Patents →</a>
+<hr />
+
+<!-- ========================= -->
+<!-- JOURNAL PUBLICATIONS      -->
+<!-- ========================= -->
+<h2>Publications</h2>
+
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+  {% for category in site.publication_category %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
+
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h3>{{ category[1].title }}</h3>
         {% assign title_shown = true %}
       {% endunless %}
+
       {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
@@ -32,5 +51,12 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
+<hr />
 
-
+<!-- ========================= -->
+<!-- PRESENTATIONS SECTION     -->
+<!-- ========================= -->
+<h2>Presentations</h2>
+<p>Conference talks, invited presentations, poster sessions.</p>
+<a href="/talks/">View Presentations →</a>
+<hr />
