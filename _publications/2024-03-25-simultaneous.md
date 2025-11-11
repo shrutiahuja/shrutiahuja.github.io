@@ -7,7 +7,7 @@ excerpt: 'Low-cost, rapid lab-developed methods to concentrate and isolate nucle
 date: 2024-03-25
 venue: 'Science of The Total Environment'
 paperurl: 'https://doi.org/10.1016/j.scitotenv.2024.170347'
-Recommended citation: 'Ahuja, S., Tallur, S., & Kondabagil, K. Simultaneous microbial capture and nucleic acid extraction from wastewater with minimal pre-processing and high recovery efficiency. Science of The Total Environment, 918, 170347 (2024).'
+citation: 'Ahuja, S., Tallur, S., & Kondabagil, K. Simultaneous microbial capture and nucleic acid extraction from wastewater with minimal pre-processing and high recovery efficiency. Science of The Total Environment, 918, 170347 (2024).'
 ---
 ## Objective: 
 To develop and evaluate two cost-effective workflows for simultaneous microbial concentration and nucleic-acid extraction from wastewater (a paper dipstick for ~1 mL samples and a PTFE membrane filter with a 3D-printed peristaltic pump for 40 mL samples) and to benchmark their recovery efficiency against a commercial kit.
