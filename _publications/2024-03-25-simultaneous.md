@@ -3,7 +3,7 @@ title: "Simultaneous microbial capture and nucleic acid extraction from wastewat
 collection: publications
 category: manuscripts
 permalink: /publication/2024-03-25-simultaneous.md
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Low-cost, rapid lab-developed methods to concentrate and isolate nucleic acids from different microbes such as SARS-CoV-2, pepper mild mottle virus (PMMoV), bacteriophage Phi6, and E. coli from wastewater samples with minimal or no sample pre-processing. '
 date: 2024-03-25
 venue: 'Science of The Total Environment'
 paperurl: 'https://doi.org/10.1016/j.scitotenv.2024.170347'
