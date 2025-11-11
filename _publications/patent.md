@@ -12,5 +12,5 @@ citation: 'Nandeshwar R, Ahuja S, Kondabagil K, Tallur S, “Method and optical 
 
 **Recommended citation:** 'Nandeshwar R, Ahuja S, Kondabagil K, Tallur S, “Method and optical system for detecting nucleic acids and other biological analytes in sample” Indian Patent No. 560025, (2022).' 
 
-👉 [View Paper]({{ page.paperurl }})
+👉 [View Patent Certificate]({{ page.paperurl }})
 
