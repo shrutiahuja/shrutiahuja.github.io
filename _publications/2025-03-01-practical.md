@@ -27,4 +27,3 @@ Measuring the CPE at higher frequencies provides a rapid, sensitive alternative 
 
 **Recommended citation:** 'Ahuja, S., Kulkarni, A., Pandey, R., Kondabagil, K., & Tallur, S. Practical considerations for DNA sensing using Faradaic electrochemical impedance spectroscopy on ENIG PCB electrodes. Biosensors and Bioelectronics: X, 22, 100569 (2025).
 
-👉 [View Paper]({{ page.paperurl }})
