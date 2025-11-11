@@ -7,7 +7,7 @@ excerpt: 'Collaborated with Prof. Richa Pandey, University of Calgary, Candada o
 date: 2025-10-14
 venue: 'Nature Scientific Reports'
 paperurl: "https://www.nature.com/articles/s41598-025-19701-4"
-Recommended citation: 'Noim, J.O., Kakadiya, D., Dang, S., Ahuja, S. et al. Methylene blue as a new signal tracer for nucleic acid-based lateral flow assay. Sci Rep 15, 35900, (2025).'
+citation: 'Noim, J.O., Kakadiya, D., Dang, S., Ahuja, S. et al. Methylene blue as a new signal tracer for nucleic acid-based lateral flow assay. Sci Rep 15, 35900 (2025).'
 ---
 ## Objective: 
 To introduce methylene blue (MB) as an alternative, label-free signal reporter for nucleic-acid lateral flow assays (NALFAs), enabling direct visual and electrochemical readout without the need for nanoparticle or enzyme conjugation.
@@ -24,7 +24,7 @@ Methylene blue generated a distinct test-line signal upon hybridization, enablin
 ## Conclusion: 
 Methylene blue functions as an effective, low-cost, and easily deployable signal reporter for nucleic-acid lateral flow assays, supporting both visual and electrochemical detection without complex labeling chemistry. This strategy reduces fabrication complexity and supports the development of rapid, field-compatible molecular diagnostic tools.
 
-**Recommended citation:** 'Noim, J.O., Kakadiya, D., Dang, S., Ahuja, S. et al. Methylene blue as a new signal tracer for nucleic acid-based lateral flow assay. Sci Rep 15, 35900, (2025).' 
+**Recommended citation:** 'Noim, J.O., Kakadiya, D., Dang, S., Ahuja, S. et al. Methylene blue as a new signal tracer for nucleic acid-based lateral flow assay. Sci Rep 15, 35900 (2025).' 
 
 👉 [View Paper]({{ page.paperurl }})
 
