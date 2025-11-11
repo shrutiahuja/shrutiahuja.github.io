@@ -3,6 +3,7 @@ title: "Dipstick-based pathogen detection for wastewater surveillance: Variabili
 collection: publications
 category: manuscripts
 permalink: /publications/gage/
+date: 2025
 excerpt: 'Manuscript under rievew on Validating the field-utility of paper dipstick method for RNA capture and isolation from sub-milliliter wastewater samples using multi-operator two-way ANOVA followed by crossed gage repeatability and reproducibility variability analysis.'
 ---
 
