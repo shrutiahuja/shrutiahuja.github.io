@@ -3,7 +3,7 @@ layout: single
 title: "Teaching assistant for Molecular Biology at St.Xavier's College, Mumbai"
 collection: teaching
 category: teaching
-permalink: /teaching/molbio
+permalink: /teaching/molbio/
 instructor: "Prof. Maya Murdeshwar"
 venue: "Life Science and Biochemistry department"
 date: Spring 2023
