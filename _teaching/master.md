@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Mentoring a Masters student on developing a nucleic-acid lateral flow assay (NALF) for rapid detection of urinary tract infection (UTI)."
+title: "Mentored a Masters student on developing a nucleic-acid lateral flow assay (NALF) for rapid detection of urinary tract infection (UTI)."
 collection: teaching
 category: mentoring
 permalink: /teaching/2022-master/
