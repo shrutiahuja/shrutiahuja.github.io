@@ -5,7 +5,7 @@ collection: teaching
 category: teaching
 permalink: /teaching/lcms/
 instructor: "Dr. Mayuri Gandhi"
-venue: "Sophisticated analytical instruments facility"
+venue: "Sophisticated Analytical Instruments Facility (SAIF)"
 date: 2021-08-01
 location: "IIT Bombay, India."
 ---
