@@ -62,11 +62,15 @@ I enjoy tinkering, designing prototypes on CAD softwares and 3D-printing. I love
 
 **June 2025** - Received competitive bursary to present at Oxford Pandemic Science Conference (UK).
 
+**March 2025**- First author publication: [Practical considerations for DNA sensing using Faradaic electrochemical impedance spectroscopy on ENIG PCB electrodes](https://doi.org/10.1016/j.biosx.2024.100569) published in Biosensors & Bioelectronics:X. 
+
 **Nov 2024**  - Awarded Best Poster at ICGEB Pandemic Preparedness Conference (Italy).
 
 **Aug 2024**  - Selected in the research & policy group of Team Zero Waste, IIT Bombay.
 
 **July 2024** - Selected as the PG representative for Gender cell, IIT Bombay.
+
+**March 2024**- First author publication: [Simultaneous microbial capture and nucleic acid extraction from wastewater with minimal pre-processing and high recovery efficiency](https://doi.org/10.1016/j.scitotenv.2024.170347) published in Science of the Total Environment.
 
 **Oct 2023**  - Present a poster at MicroTAS conference and attended a workshop on paper microfluidics (Poland). 
 
@@ -76,7 +80,9 @@ I enjoy tinkering, designing prototypes on CAD softwares and 3D-printing. I love
 
 **June 2022** - [Research featured among commendable Interdisciplinary Projects on PMRF portal](https://www.pmrf.in/10-id-commendable-research-works). 
 
-**May 2022**  - First author publication on electrochemical sensing tweeted by [ACS Sensors](https://x.com/ACS_Sensors/status/1531616484702707714?ref_src=twsrc%5Etfw) 
+**May 2022**  - First author publication on electrochemical sensing tweeted by [ACS Sensors](https://x.com/ACS_Sensors/status/1531616484702707714?ref_src=twsrc%5Etfw). 
+
+**May 2022**  - First author publication: [Longer amplicons provide better sensitivity for electrochemical sensing of viral nucleic acid in water samples using PCB electrodes](https://www.nature.com/articles/s41598-022-12818-w) published in Scientific reports.
 
 
 
