@@ -3,7 +3,7 @@ layout: single
 title: "Teaching assistant for Introduction to Mathematics for Biologists"
 collection: teaching
 category: teaching
-permalink: /teaching/math
+permalink: /teaching/math/
 instructor: "Prof. Ranjith Padinhateeri"
 venue: "NPTEL(National Programme on Technology Enhanced Learning)"
 date: Fall 2023
