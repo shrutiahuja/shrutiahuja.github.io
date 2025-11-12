@@ -3,7 +3,7 @@ layout: single
 title: "Teaching assistant for High Resolution Orbitrap Liquid Chromatograph Mass Spectrometer"
 collection: teaching
 category: teaching
-permalink: /teaching/lcms
+permalink: /teaching/lcms/
 instructor: "Dr. Mayuri Gandhi"
 venue: "Sophisticated analytical instruments facility"
 date: 2021-2024
