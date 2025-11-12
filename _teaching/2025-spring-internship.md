@@ -9,6 +9,7 @@ venue: "CY-Phy AIMS Lab"
 date: 2025-01-01
 location: "IIT Bombay, India."
 ---
+(Spring semester, 2025)
 
 Supervised summer interns on **Optimizing bacterial capture and DNA isolation from wastewater samples using paper dipsticks**
 
