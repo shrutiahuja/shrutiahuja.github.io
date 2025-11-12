@@ -14,8 +14,44 @@ Prior to Ph.D., I was the R&D Lead and founding staff at [Valetude Primus Health
 I am currently seeking **postdoctoral opportunities** that leverage my interdisciplinary experience in diagnostics, pathogen surveillance, and policy decision making to drive impactful public health solutions.
 
 Quick Links
+
 🔗 [CV]()
 
 🔗 [Ph.D. Research Overview]()
 
 🔗 [Projects from Valetude Primus Healthcare]()
+
+## Research Interests
+
+*The research problems that I am currently exploring are:*
+
+**Paper-based pathogen concentration & nucleic-acid extraction from wastewater**
+
+Developed rapid, low-cost paper-based pathogen capture and nucleic acid isolation from sub-millilitre (dipstick) to larger wastewater volumes (PTFE membrane filtration) with minimal preprocessing, achieving recovery comparable to commercial extraction kits without compromising amplification efficiency. Performed temporal surveilance to correlate PMMoV viral load with population density. Successfully detected SARS-CoV-2, *E.coli*, and bacteriophage Phi6.
+
+**Product validation: Assessing reproducibility of paper-based nucleic-acid extraction for field deployment using multi-operator variability studies**
+
+Conducted multi-operator two-way ANOVA and crossed Gage repeatability and reproducibility statistical analysis to ensure that the manual nature of the paper dipstick method had acceptable variability as per industrial standards across users and wastewater samples. 
+
+**Electrochemical sensing for nucleic-acid detection using Electroless Nickel Immersion Gold (ENIG) PCB electrodes**
+
+Developed an ENIG-PCB DNA sensing platform (no cold-chain storage, long shelf life) along with studying the influence of DNA concentration, amplicon length and ionic strength on sensor response. Evaluated practical constraints of using oligonucleotide modified ENIG-PCB electrodes for faradaic EIS measurements and proposed the use of constant phase element (CPE) as an alternative to charge transfer resistance (Rct) as the sensing parameter. 
+
+**Metagenomic Surveillance (on-going)**
+
+Optimizing bacterial concentration and DNA capture using paper dipsticks for 16S rRNA sequencing and metagenomic profiling of wastewater samples from residential areas in Mumbai, India.
+
+**The research problems that I wish to explore in the future:**
+
+- Develop point-of-use rapid diagnostics for rapid infectious disease diagnosis.
+  
+- Pathogen surveillance using next generation sequencing understanding pathogen spillover, metagenomics, variant detection, and AMR profiling across clinical or environmental samples.
+  
+- Data-driven public-health decision support & policy translation researching and proposing regulatory and ethical guidelines for the implementation of environmental surveillance data in public   health policy.
+
+## News!
+
+
+  
+
+
