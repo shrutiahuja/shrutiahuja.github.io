@@ -15,5 +15,7 @@ I am currently seeking **postdoctoral opportunities** that leverage my interdisc
 
 Quick Links
 🔗 [CV]()
+
 🔗 [Ph.D. Research Overview]()
+
 🔗 [Projects from Valetude Primus Healthcare]()
