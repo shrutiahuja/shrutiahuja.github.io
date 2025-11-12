@@ -3,7 +3,7 @@ layout: single
 title: "Mentoring summer interns on Optimizing bacterial capture and DNA isolation from wastewater samples using paper dipsticks"
 collection: teaching
 category: mentoring
-permalink: /teaching/2025-spring-internship
+permalink: /teaching/2025-spring-internship/
 instructor: "Prof. Siddharth Tallur"
 venue: "CY-Phy AIMS Lab"
 date: Spring 2025
