@@ -6,7 +6,23 @@ author_profile: true
 ---
 
 {% include base_path %}
+{% include base_path %}
 
-{% for post in site.teaching reversed %}
+{% assign teaching_items = site.teaching | where: "category", "teaching" %}
+{% assign mentoring_items = site.teaching | where: "category", "mentoring" %}
+
+<!-- ------------------ -->
+<!-- TEACHING SECTION   -->
+<!-- ------------------ -->
+<h2>Teaching</h2>
+{% for post in teaching_items reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<!-- ------------------ -->
+<!-- MENTORING SECTION  -->
+<!-- ------------------ -->
+<h2>Mentoring & Supervision</h2>
+{% for post in mentoring_items reversed %}
   {% include archive-single.html %}
 {% endfor %}
