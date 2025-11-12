@@ -60,6 +60,16 @@ I enjoy tinkering, designing prototypes on CAD softwares and 3D-printing. I love
 
 ## News!
 
+**June 2025** - Received competitive bursary to present at Oxford Pandemic Science Conference (UK).
+**Nov 2024**  - Awarded Best Poster at ICGEB Pandemic Preparedness Conference (Italy).
+**Aug 2024**  - Selected in the research & policy group of Team Zero Waste, IIT Bombay.
+**July 2024** - Selected as the PG representative for Gender cell, IIT Bombay.
+**Oct 2023**  - Present a poster at MicroTAS conference and attended a workshop on paper microfluidics (Poland). 
+**Feb 2023**  - Presented by work at the PMRF Symposium, IIT Madras. 
+**Sep 2022**  - Advisors awarded the [IC-IMPACTS grant](https://ic-impacts.com/reconfigurable-platform-for-rapid-autonomous-quantification-of-pathogens-in-wastewater-using-pcb-electrode-based-                 assays/) on 'Reconfigurable platform for rapid autonomous quantification of pathogens in wastewater using PCB electrode-based assays' based on my research (Assisted in ideation                  and grant writing)
+**June 2022** - [Research featured among commendable Interdisciplinary Projects on PMRF portal](https://www.pmrf.in/10-id-commendable-research-works). 
+**May 2022**  - First author publication on electrochemical sensing tweeted by [ACS Sensors](https://x.com/ACS_Sensors/status/1531616484702707714?ref_src=twsrc%5Etfw) 
+
 
 
   
