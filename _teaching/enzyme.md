@@ -6,7 +6,7 @@ category: teaching
 permalink: /teaching/enzyme
 instructor: "Prof. Maya Murdeshwar"
 venue: "Life Science and Biochemistry department"
-date: Fall 20222
+date: Fall 2022
 location: "St Xavier's College, Mumbai, India."
 ---
-Assisted Prof. Maya Murdeshwar in creating lecture notes, and tutorials on enzyme chemistry for sophomore students. 
+Assisted Prof. Maya Murdeshwar in creating lecture notes, help sessions, and tutorials on enzyme chemistry for sophomore students. 
