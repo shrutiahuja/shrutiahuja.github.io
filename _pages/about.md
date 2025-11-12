@@ -26,7 +26,7 @@ Quick Links
 *The research problems that I am currently exploring are:*
 
 - **Paper-based pathogen concentration & nucleic-acid extraction from wastewater**
-  - Developed rapid, low-cost paper-based pathogen capture and nucleic acid isolation from sub-millilitre (dipstick) to larger wastewater volumes (PTFE membrane filtration) with minimal preprocessing, achieving recovery comparable to commercial extraction kits without compromising amplification efficiency. Performed temporal surveilance to correlate PMMoV viral load with population density. Successfully detected SARS-CoV-2, *E.coli*, and bacteriophage Phi6.
+  - Developed rapid, low-cost paper-based pathogen capture and nucleic acid isolation from sub-millilitre (dipstick) to larger wastewater volumes (PTFE membrane filtration) with minimal preprocessing, achieving recovery comparable to commercial extraction kits without compromising amplification efficiency. Performed temporal surveillance to correlate PMMoV viral load with population density. Successfully detected SARS-CoV-2, *E.coli*, and bacteriophage Phi6.
 
 - **Product validation: Assessing reproducibility of paper-based nucleic-acid extraction for field deployment using multi-operator variability studies**
 
@@ -48,12 +48,12 @@ Quick Links
   
 - Data-driven public-health decision support & policy translation researching and proposing regulatory and ethical guidelines for the implementation of environmental surveillance data in public   health policy.
   
-I love working on real world-healthcare problems, optimizing and curating bioassays amenable to eventual integration with commercially viable platforms. My experience with [typhoid detection from blood and tubeculosis detection from sputum samples using immunomagnetic cell capture technique]() piqued my interests in affordable diagnostics. I planned to continue my research on detecting bloodstream infections for my Ph.D. research however due to the restrictions on patient sample collections during the COVID-19 pandemic, I diverted my focus on environmental surveillance to create an end-to-end system that could be utilised as an early warning indicator for outbreak monitoring. 
+I love working on real world-healthcare problems, optimizing and curating bioassays amenable to eventual integration with commercially viable platforms. My experience with [typhoid detection from blood and tuberculosis detection from sputum samples using immunomagnetic cell capture technique]() piqued my interests in affordable diagnostics. I planned to continue my research on detecting bloodstream infections for my Ph.D. research however due to the restrictions on patient sample collections during the COVID-19 pandemic, I diverted my focus on environmental surveillance to create an end-to-end system that could be utilised as an early warning indicator for outbreak monitoring. 
 
 
 ## Additional Interests
 
-I enjoy teaching and mentoring, having been a teaching assistant for several courses at NPTEL (National Programme on Technology Enhanced Learning), and St. Xavier's College, Mumbai including modules in molecular biology. I have also served as the teaching assistant for the LC-MS instrument at IIT Bombay. At the [CY-PHY lab](https://www.ee.iitb.ac.in/~stallur/index.php/), I have mentored several interns training them in real-time quantitative PCR, fluorecent microscopy, plasmid transformation, PAGE. Outside the lab, I am passionate about policy studies developing sustainability policies that can be implemeted at the IIT Bombay campus as part of the Team Zero waste club. 
+I enjoy teaching and mentoring, having been a teaching assistant for several courses at NPTEL (National Programme on Technology Enhanced Learning), and St. Xavier's College, Mumbai including modules in molecular biology. I have also served as the teaching assistant for the LC-MS instrument at IIT Bombay. At the [CY-PHY lab](https://www.ee.iitb.ac.in/~stallur/index.php/), I have mentored several interns training them in real-time quantitative PCR, fluorescence microscopy, plasmid transformation, PAGE. Outside the lab, I am passionate about policy studies developing sustainability policies that can be implemented at the IIT Bombay campus as part of the Team Zero waste club. 
 
 I enjoy tinkering, designing prototypes on CAD softwares and 3D-printing. I love travelling, art and everything to do with nature. Chess and coffee happen to be my happy place :)
 
