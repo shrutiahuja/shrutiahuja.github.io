@@ -72,7 +72,7 @@ I enjoy tinkering, designing prototypes on CAD softwares and 3D-printing. I love
 
 **Feb 2023**  - Presented by work at the PMRF Symposium, IIT Madras. 
 
-**Sep 2022**  - Advisors awarded the [IC-IMPACTS grant](https://ic-impacts.com/reconfigurable-platform-for-rapid-autonomous-quantification-of-pathogens-in-wastewater-using-pcb-electrode-based-                 assays/) on 'Reconfigurable platform for rapid autonomous quantification of pathogens in wastewater using PCB electrode-based assays' based on my research (Assisted in ideation                  and grant writing).
+**Sep 2022**  - Advisors awarded the [IC-IMPACTS grant](https://ic-impacts.com/reconfigurable-platform-for-rapid-autonomous-quantification-of-pathogens-in-wastewater-using-pcb-electrode-based-assays/) on 'Reconfigurable platform for rapid autonomous quantification of pathogens in wastewater using PCB electrode-based assays' based on my research (Assisted in ideation and grant writing).
 
 **June 2022** - [Research featured among commendable Interdisciplinary Projects on PMRF portal](https://www.pmrf.in/10-id-commendable-research-works). 
 
