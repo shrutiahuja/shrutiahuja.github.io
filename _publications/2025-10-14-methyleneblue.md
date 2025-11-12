@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publications/2025-10-14-methyleneblue.md/
 excerpt: 'Collaborated with Prof. Richa Pandey, University of Calgary, Canada on MebiQue-LFA, a nucleic acid-integrated lateral flow assay that utilizes methylene blue (MB) as a new colorimetric signal tracer for detecting nucleic acids. MebiQue-LFA advances LFA technology by enabling visual detection via blue dye and enhancing sensitivity through integrated electrochemical transduction on the same platform.'
 date: 2025-10-14
-venue: 'Nature Scientific Reports'
+venue: 'Scientific Reports'
 paperurl: "https://www.nature.com/articles/s41598-025-19701-4"
 citation: 'Noim, J.O., Kakadiya, D., Dang, S., Ahuja, S. et al. Methylene blue as a new signal tracer for nucleic acid-based lateral flow assay. Sci Rep 15, 35900 (2025).'
 ---
