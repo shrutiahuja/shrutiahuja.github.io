@@ -3,7 +3,7 @@ layout: single
 title: "Teaching assistant for Introduction to Proteomics"
 collection: teaching
 category: teaching
-permalink: /teaching/proteomics
+permalink: /teaching/proteomics/
 instructor: "Prof. Sanjeeva Srivastava"
 venue: "NPTEL(National Programme on Technology Enhanced Learning)"
 date: Fall 2023
