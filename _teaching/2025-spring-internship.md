@@ -6,7 +6,7 @@ category: mentoring
 permalink: /teaching/2025-spring-internship/
 instructor: "Prof. Siddharth Tallur"
 venue: "CY-Phy AIMS Lab"
-date: 01-01-2025
+date: 2025-01-01
 location: "IIT Bombay, India."
 ---
 
