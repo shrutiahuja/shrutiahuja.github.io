@@ -3,7 +3,7 @@ layout: single
 title: "Mentoring a Master’s student on developing a nucleic-acid lateral flow assay (NALF) for rapid detection of urinary tract infection (UTI)."
 collection: teaching
 category: mentoring
-permalink: /teaching/2022-master
+permalink: /teaching/2022-master/
 instructor: "Prof. Siddharth Tallur and Prof. N.S. Jayaprakash"
 venue: "CY-Phy AIMS Lab"
 date: Fall 2022
