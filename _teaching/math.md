@@ -5,7 +5,7 @@ collection: teaching
 category: teaching
 permalink: /teaching/math/
 instructor: "Prof. Ranjith Padinhateeri"
-venue: "NPTEL(National Programme on Technology Enhanced Learning)"
+venue: "National Programme on Technology Enhanced Learning (NPTEL)"
 date: 2024-01-01
 location: "Online"
 ---
