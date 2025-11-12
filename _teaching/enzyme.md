@@ -3,7 +3,7 @@ layout: single
 title: "Teaching assistant for Enzyme Chemistry at St.Xavier's College, Mumbai"
 collection: teaching
 category: teaching
-permalink: /teaching/enzyme
+permalink: /teaching/enzyme/
 instructor: "Prof. Maya Murdeshwar"
 venue: "Life Science and Biochemistry department"
 date: Fall 2022
