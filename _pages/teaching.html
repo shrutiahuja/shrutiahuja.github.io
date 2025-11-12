@@ -10,6 +10,14 @@ author_profile: true
 {%- assign teaching_items = site.teaching | where_exp: "item", "item.category == 'teaching'" -%}
 {%- assign mentoring_items = site.teaching | where_exp: "item", "item.category == 'mentoring'" -%}
 
+{%- if mentoring_items.size > 0 -%}
+  <h2>Mentoring & Supervision</h2>
+  {% for post in mentoring_items reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+  <hr />
+{%- endif -%}
+
 {%- if teaching_items.size > 0 -%}
   <h2>Teaching</h2>
   {% for post in teaching_items reversed %}
@@ -18,10 +26,4 @@ author_profile: true
   <hr />
 {%- endif -%}
 
-{%- if mentoring_items.size > 0 -%}
-  <h2>Mentoring & Supervision</h2>
-  {% for post in mentoring_items reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-  <hr />
-{%- endif -%}
+
