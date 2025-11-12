@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Mentored summer interns on Optimizing bacterial capture and DNA isolation from wastewater samples using paper dipsticks"
+title: "Mentored summer interns on optimizing bacterial capture and DNA isolation from wastewater samples using paper dipsticks"
 collection: teaching
 category: mentoring
 permalink: /teaching/2025-spring-internship/
