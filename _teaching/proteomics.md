@@ -5,7 +5,7 @@ collection: teaching
 category: teaching
 permalink: /teaching/proteomics/
 instructor: "Prof. Sanjeeva Srivastava"
-venue: "NPTEL(National Programme on Technology Enhanced Learning)"
+venue: "National Programme on Technology Enhanced Learning (NPTEL)"
 date: 2023-07-01
 location: "Online"
 ---
