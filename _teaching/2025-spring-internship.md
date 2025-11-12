@@ -4,7 +4,7 @@ title: "Mentoring summer interns on Optimizing bacterial capture and DNA isolati
 collection: teaching
 category: mentoring
 permalink: /teaching/2025-spring-internship
-instructor: [Prof. Siddharth Tallur](https://www.ee.iitb.ac.in/web/people/siddharth-tallur/)
+instructor: "[Prof. Siddharth Tallur](https://www.ee.iitb.ac.in/web/people/siddharth-tallur/)"
 venue: "CY-Phy AIMS Lab"
 date: Spring 2025
 location: "IIT Bombay, India."
