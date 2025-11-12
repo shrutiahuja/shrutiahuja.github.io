@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Mentoring master's student on 'Developing a lateral flow assay for detection of urinary tract infections"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
