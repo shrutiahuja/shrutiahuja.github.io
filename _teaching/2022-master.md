@@ -19,5 +19,5 @@ I conceptualized and designed the entire project workflow — from assay design 
 - Immobilization of capture probe on nitrocellulose pad using UV-irradiation that induced covalent bonding.
 - Tested the utility of the NALF strip using *E.coli* spiked urine diluent. 
 
-This work was published in: [2024 8th IEEE Electron Devices Technology & Manufacturing Conference](https://ieeexplore.ieee.org/abstract/document/10511391)
+This work was published in: [2024 8th IEEE Electron Devices Technology & Manufacturing Conference](https://ieeexplore.ieee.org/abstract/document/10511391).
 
