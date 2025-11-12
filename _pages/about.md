@@ -80,7 +80,7 @@ I enjoy tinkering, designing prototypes on CAD softwares and 3D-printing. I love
 
 **June 2022** - [Research featured among commendable Interdisciplinary Projects on PMRF portal](https://www.pmrf.in/10-id-commendable-research-works). 
 
-**May 2022**  - First author publication on electrochemical sensing tweeted by [ACS Sensors](https://x.com/ACS_Sensors/status/1531616484702707714?ref_src=twsrc%5Etfw). 
+**May 2022**  - My published work on electrochemical sensing tweeted by [ACS Sensors](https://x.com/ACS_Sensors/status/1531616484702707714?ref_src=twsrc%5Etfw). 
 
 **May 2022**  - First author publication: [Longer amplicons provide better sensitivity for electrochemical sensing of viral nucleic acid in water samples using PCB electrodes](https://www.nature.com/articles/s41598-022-12818-w) published in Scientific reports.
 
