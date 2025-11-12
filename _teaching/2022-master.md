@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Mentoring a Master’s student on developing a nucleic-acid lateral flow assay (NALF) for rapid detection of urinary tract infection (UTI)."
+title: "Mentoring a Masters student on developing a nucleic-acid lateral flow assay (NALF) for rapid detection of urinary tract infection (UTI)."
 collection: teaching
 category: mentoring
 permalink: /teaching/2022-master/
@@ -10,7 +10,7 @@ date: Fall 2022
 location: "IIT Bombay, India."
 ---
 
-Supervised a Master's student from VIT Vellore on **developing a nucleic-acid lateral flow assay (NALF) for rapid detection of urinary tract infection (UTI).**
+Supervised a Master's student from VIT Vellore on developing a nucleic-acid lateral flow assay (NALF) for rapid detection of urinary tract infection (UTI).
 
 I conceptualized and designed the entire project workflow — from assay design to prototype fabrication. The dissertation included training the intern in Autodesk Fusion 360, laser cutting, assembling and packaging lateral flow strips, bacterial subculturing, genomic DNA isolation techniques, PCR, and agarose gel electrophoresis. 
 
