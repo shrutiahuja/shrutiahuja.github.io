@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Mentoring summer interns on Optimizing bacterial capture and DNA isolation from wastewater samples using paper dipsticks"
+title: "Mentored summer interns on Optimizing bacterial capture and DNA isolation from wastewater samples using paper dipsticks"
 collection: teaching
 category: mentoring
 permalink: /teaching/2025-spring-internship/
-instructor: "Prof. Siddharth Tallur"
+instructor: 'Prof. Siddharth Tallur'
 venue: "CY-Phy AIMS Lab"
 date: 2025-01-01
 location: "IIT Bombay, India."
