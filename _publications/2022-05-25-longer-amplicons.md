@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publications/2022-05-25-longer-amplicons/
 excerpt: 'Cost-efficient electrochemical detection of long viral amplicons (~500 bp) using unmodified ENIG PCB electrodes for environmental water monitoring in resource-limited settings.'
 date: 2022-05-25
-venue: 'Nature Scientific Reports'
+venue: 'Scientific Reports'
 paperurl: "https://www.nature.com/articles/s41598-022-12818-w"
 citation: 'Ahuja, S., Kumar, M.S., Nandeshwar, R. et al. Longer amplicons provide better sensitivity for electrochemical sensing of viral nucleic acid in water samples using PCB electrodes. Sci Rep 12, 8814 (2022).'
 ---
