@@ -230,6 +230,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  academic_projects:
+    output: true
+    permalink: /academic-projects/:path/
+  industrial_projects:
+    output: true
+    permalink: /industrial-projects/:path/
 
 
 # These settings control how pages and collections are included in the site
