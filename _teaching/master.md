@@ -9,7 +9,7 @@ venue: "CY-Phy AIMS Lab"
 date: 2022-12-01
 location: "IIT Bombay, India."
 ---
-2022-2023
+(2022-2023)
 
 Supervised a Master's student from VIT Vellore on developing a nucleic-acid lateral flow assay (NALF) for rapid detection of urinary tract infection (UTI).
 
