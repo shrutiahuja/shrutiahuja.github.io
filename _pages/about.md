@@ -41,15 +41,25 @@ Developed an ENIG-PCB DNA sensing platform (no cold-chain storage, long shelf li
 
 Optimizing bacterial concentration and DNA capture using paper dipsticks for 16S rRNA sequencing and metagenomic profiling of wastewater samples from residential areas in Mumbai, India.
 
-**The research problems that I wish to explore in the future:**
+***The research problems that I wish to explore in the future:***
 
 - Develop point-of-use rapid diagnostics for rapid infectious disease diagnosis.
   
 - Pathogen surveillance using next generation sequencing understanding pathogen spillover, metagenomics, variant detection, and AMR profiling across clinical or environmental samples.
   
 - Data-driven public-health decision support & policy translation researching and proposing regulatory and ethical guidelines for the implementation of environmental surveillance data in public   health policy.
+  
+I love working on real world-healthcare problems, optimizing and curating bioassays amenable to eventual integration with commercially viable platforms. My experience with [typhoid detection from blood and tubeculosis detection from sputum samples using immunomagnetic cell capture technique]() piqued my interests in affordable diagnostics. I planned to continue my research on detecting bloodstream infections for my Ph.D. research however due to the restrictions on patient sample collections during the COVID-19 pandemic, I diverted my focus on environmental surveillance to create an end-to-end system that could be utilised as an early warning indicator for outbreak monitoring. 
+
+
+## Additional Interests
+
+I enjoy teaching and mentoring, having been a teaching assistant for several courses at NPTEL (National Programme on Technology Enhanced Learning), and St. Xavier's College, Mumbai including modules in molecular biology. I have also served as the teaching assistant for the LC-MS instrument at IIT Bombay. At the [CY-PHY lab](https://www.ee.iitb.ac.in/~stallur/index.php/) I have mentored several interns training them in real-time quantitative PCR, fluorecent microscopy, plasmid transformation, PAGE. Outside the lab, I am passionate about policy studies developing sustainability policies that can be implemeted at the IIT Bombay campus as part of the Team Zero waste club. 
+
+I enjoy tinkering, designing prototypes on CAD softwares and 3D-printing. I love travelling, art and everything to do with nature. Chess and coffee happen to be my happy place :)
 
 ## News!
+
 
 
   
