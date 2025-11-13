@@ -19,7 +19,7 @@ Quick Links
 
 🔗 [Ph.D. Research Overview]()
 
-🔗 [Projects from Valetude Primus Healthcare]()
+🔗 [Projects from Valetude Primus Healthcare](https://shrutiahuja.github.io/industrial-projects/)
 
 ## Research Interests
 
@@ -48,7 +48,7 @@ Quick Links
   
 - Data-driven public-health decision support and policy translation researching and proposing regulatory and ethical guidelines for the implementation of environmental surveillance data in public health policy.
   
-I love working on real world-healthcare problems, optimizing and curating bioassays amenable to eventual integration with commercially viable platforms. My experience with [typhoid detection from blood and tuberculosis detection from sputum samples using immunomagnetic cell capture technique]() piqued my interests in affordable diagnostics. I planned to continue my research on detecting bloodstream infections for my Ph.D. research however due to the restrictions on patient sample collections during the COVID-19 pandemic, I diverted my focus on environmental surveillance to create an end-to-end system that could be utilised as an early warning indicator for outbreak monitoring. 
+I love working on real world-healthcare problems, optimizing and curating bioassays amenable to eventual integration with commercially viable platforms. My experience with [typhoid detection from blood and tuberculosis detection from sputum samples using immunomagnetic cell capture technique](https://shrutiahuja.github.io/industrial-projects/) piqued my interests in affordable diagnostics. I planned to continue my research on detecting bloodstream infections for my Ph.D. research however due to the restrictions on patient sample collections during the COVID-19 pandemic, I diverted my focus on environmental surveillance to create an end-to-end system that could be utilised as an early warning indicator for outbreak monitoring. 
 
 
 ## Additional Interests
