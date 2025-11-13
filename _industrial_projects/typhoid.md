@@ -4,7 +4,8 @@ title: "Immuno-Magnetic Cell Capture (iMC²) and Instant Antimicrobial Susceptib
 collection: industrial_projects
 permalink: /industrial-projects/typhoid/
 excerpt: "Developed and optimized an immuno-magnetic platform (iMC²/iAST) for rapid typhoid detection directly from blood samples, achieving 10 CFU/mL sensitivity and reducing diagnostic time from days to hours. Translated the assay toward commercial readiness through selective growth optimization, magnetic capture using Vi-antibody–coated nanoparticles, and development of a proprietary blood-liquefaction medium."
-date: 2017-01-01
+venue: Valetude Primus Healthcare, IIT Delhi
+date: 2017
 ---
 
 **The system includes immuno-magnetic platform followed by a novel viability testing platform with afluorescent read-out.**
