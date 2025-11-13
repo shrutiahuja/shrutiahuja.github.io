@@ -56,11 +56,29 @@ While the dipstick method proved effective for viral RNA, direct elution into th
 
 Conventional pathogen detection techniques rely on quantitative PCR (qPCR/qRT-PCR), the gold standard for sensitivity and specificity. However, these assays demand skilled personnel, controlled laboratory environments, and costly instrumentation—making large-scale, on-site deployment difficult. Low-cost nucleic-acid electrochemical biosensors offer a promising alternative, but conventional electrodes are often functionalized with complementary oligonucleotides, reducing the shelf life and stability of the sensor. To address this limitation, we developed a label-free electrochemical DNA-sensing approach using unmodified ENIG PCB electrodes with methylene blue (MB) as the redox indicator. A 5 µL MB–DNA complex was drop-casted on ENIG-PCB electrodes, and Differential Pulse Voltammetry (DPV) and Cyclic Voltammetry (CV) measurements were performed. The system successfully differentiated no-template controls, positive controls, and environmental Phi6 samples, confirming its capability for endpoint DNA quantification.
 
-***Understanding the mechanism***:
+***Understanding the mechanism of ENIG-PCB electrochemical sensing***:
 
 The ENIG-PCB electrode was thoroughly characterised as a DNA sensor while studying the influence of DNA concentration, amplicon length and ionic strength on sensor response. We observed increasing trend in the peak current for DPV and CV measurements for lower concentrations of DNA, with the increase more pronounced for the longer ~500 bp DNA fragment as compared to the 117 bp fragment due to Adsorption of the MB-DNA complex facilitates charge transfer at the electrode. However, for higher DNA (>2ng ng/ul) concentrations we observed a decrease in peak current for both amplicons, in DPV as well as CV measurements. This is because MB saturates and intercalates between the base pair of the DNA, causing *steric inhibition* of redox activity of reducible groups in MB. While the addition of salt markedly reduced the peak current at DNA concentrations below 2 ng/µL, it had negligible effect at higher concentrations, where electrostatic interactions no longer significantly influence the sensor response.
 
-## Integration Toward an End-to-End Platform
+***Key outcomes***: 
+
+- ENIG PCB based electrochemical sensing of viral nucleic acid from lake water samples.
+
+- Evaluated the mechanism of MB-DNA sensing on unmodified ENIG-PCB electrodes.
+
+- Evaluated the influence of amplicon legth, DNA concentration and ionic strength on sensor response.
+
+- Low-cost of implementation, with potential for integration into fully-automated surveillance systems.
+
+We also evaluated *DNA detection using probe-modified ENIG PCB electrodes*, using faradaic electrochemical impedance spectroscopy (EIS) to improve sensor sensitivity.
+
+🔗 [*Published paper on this work*](https://doi.org/10.1016/j.biosx.2024.100569)
+
+EIS provides high analytical sensitivity and can distinguish bioelectrochemical circuit elements across a wide frequency spectrum. However, conventional Faradaic EIS depends on charge-transfer resistance for analyte quantification, and acquiring measurements at very low frequencies (≈0.1 Hz) substantially prolongs analysis time and accelerates ENIG degradation through gold dissolution and copper corrosion.
+
+To address these limitations, we introduce the use of the constant phase element (CPE) within the equivalent electrical circuit for DNA sensing. In this work, ENIG PCB electrodes were functionalized with thiolated single-stranded DNA probes targeting the uidA gene of E. coli. We assessed assay specificity using a 166 bp complementary amplicon and compared responses to non-complementary amplicons of varying lengths from *E.coli* and bacteriophage Phi6. Operating at higher frequencies (≥10 Hz) enables CPE-based analysis to shorten measurement times and reduce PCB damage.
+
+## Integration Towards an End-to-End Platform
 
 The dipstick-based nucleic acid extraction method was integrated with the ENIG-PCB electrochemical sensor, establishing a proof-of-concept end-to-end wastewater surveillance platform for bacteriophage Phi6 detection. This integration demonstrates the feasibility of combining rapid, paper-based nucleic-acid capture with low-cost electrochemical quantification for field-deployable surveillance systems. 
 
