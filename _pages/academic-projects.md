@@ -52,7 +52,7 @@ While the dipstick method proved effective for viral RNA, direct elution into th
 
 ## End-Point Pathogen Detection Using Electroless Nickel Immersion Gold (ENIG) PCB Electrodes
 
-🔗 [*Published paper on this work*](https://doi.org/10.1016/j.scitotenv.2024.170347](https://www.nature.com/articles/s41598-022-12818-w) 
+🔗 [*Published paper on this work*](https://www.nature.com/articles/s41598-022-12818-w) 
 
 Conventional pathogen detection techniques rely on quantitative PCR (qPCR/qRT-PCR), the gold standard for sensitivity and specificity. However, these assays demand skilled personnel, controlled laboratory environments, and costly instrumentation—making large-scale, on-site deployment difficult. Low-cost nucleic-acid electrochemical biosensors offer a promising alternative, but conventional electrodes are often functionalized with complementary oligonucleotides, reducing the shelf life and stability of the sensor. To address this limitation, we developed a label-free electrochemical DNA-sensing approach using unmodified ENIG PCB electrodes with methylene blue (MB) as the redox indicator. A 5 µL MB–DNA complex was drop-casted on ENIG-PCB electrodes, and Differential Pulse Voltammetry (DPV) and Cyclic Voltammetry (CV) measurements were performed. The system successfully differentiated no-template controls, positive controls, and environmental Phi6 samples, confirming its capability for endpoint DNA quantification.
 
