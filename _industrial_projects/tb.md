@@ -1,4 +1,4 @@
----                                                            ---
+---
 layout: single
 title: "Rapid, Low-Cost Tuberculosis Diagnostic Using Immuno-Magnetic Cell Capture"
 collection: industrial_projects
