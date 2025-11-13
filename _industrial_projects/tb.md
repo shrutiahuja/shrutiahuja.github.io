@@ -7,7 +7,7 @@ excerpt: "Developed a highly sensitive novel platform technology for tuberculosi
 date: 2018-01-01
 ---
 
-**The system includes magnetic nanoparticles based capture and enrichment of viral RNA followed by a fluorescent end-point readout of the amplified product.**
+**The system includes magnetic nanoparticles based capture and enrichment of Mycobacterium tuberculosis followed by a fluorescent read-out.**
 
 Key highlights: 
 
