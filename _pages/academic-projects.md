@@ -32,7 +32,9 @@ Cellulose filter papers have also been explored for the purification of nucleic 
 
 - The **dipstick workflow** integrates thermal cell lysis, inspired by the HUDSON (Heating Unextracted Diagnostic Samples to Obliterate Nucleases) principle. Heat treatment lyses viral and bacterial particles while deactivating nucleases. The resulting lysate undergoes RNA capture on the dipstick, followed by washing and direct elution into the cDNA master mix for amplification. Optimization of RNase inhibition was critical to preserving RNA integrity and enabling efficient downstream amplification.
 
-![Workflow for dipstick and PMF based pathogen capture and benchmarking against commercial kit](/assets/img/graphical_abstract.png) 
+<p align="center">
+  <img src="/assets/img/graphical_abstract.png" width="450">
+</p>
 
 ## Product validation: Validating field-utility of dipstick method as per industrial standards
 
@@ -58,7 +60,9 @@ While the dipstick method proved effective for viral RNA, direct elution into th
 
 Conventional pathogen detection techniques rely on quantitative PCR (qPCR/qRT-PCR), the gold standard for sensitivity and specificity. However, these assays demand skilled personnel, controlled laboratory environments, and costly instrumentation—making large-scale, on-site deployment difficult. Low-cost nucleic-acid electrochemical biosensors offer a promising alternative, but conventional electrodes are often functionalized with complementary oligonucleotides, reducing the shelf life and stability of the sensor. To address this limitation, we developed a label-free electrochemical DNA-sensing approach using unmodified ENIG PCB electrodes with methylene blue (MB) as the redox indicator. A 5 µL MB–DNA complex was drop-casted on ENIG-PCB electrodes, and Differential Pulse Voltammetry (DPV) and Cyclic Voltammetry (CV) measurements were performed. The system successfully differentiated no-template controls, positive controls, and environmental Phi6 samples, confirming its capability for endpoint DNA quantification.
 
-![Workflow for DNA detection using ENIG-PCB electrodes](/assets/img/longer.png) 
+<p align="center">
+  <img src="/assets/img/longer.png" width="450">
+</p>
 
 ***Understanding the mechanism of ENIG-PCB electrochemical sensing***:
 
