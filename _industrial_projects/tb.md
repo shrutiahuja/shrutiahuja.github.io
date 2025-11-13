@@ -7,9 +7,7 @@ excerpt: "Developed a highly sensitive novel platform technology for tuberculosi
 date: 2018-01-01
 ---
 
-**AutoGene is a rapid COVID-19 diagnostic platform developed during the early phase of the pandemic.**
-
-The system includes magnetic nanoparticles based capture and enrichment of viral RNA followed by a fluorescent end-point readout of the amplified product.
+**The system includes magnetic nanoparticles based capture and enrichment of viral RNA followed by a fluorescent end-point readout of the amplified product.**
 
 Key highlights: 
 
