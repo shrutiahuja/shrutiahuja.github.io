@@ -2,10 +2,11 @@
 layout: single
 title: "Rapid, Low-Cost Tuberculosis Diagnostic Using Immuno-Magnetic Cell Capture"
 collection: industrial_projects
+year: 2018
+venue: Valetude Primus Healthcare, IIT Delhi
 permalink: /industrial-projects/tb/
 excerpt: "Developed a highly sensitive novel platform technology for tuberculosis detection with last mile connectivity. This technology won the [India Health Fund 2018 grant](https://www.tatatrusts.org/media/press-releases/india-health-fund-announces-winners-of-its-rfp-2-0#:~:text=12%20November%2C%202018,and%20improving%20adherence%20to%20drugs.)."
-venue: Valetude Primus Healthcare, IIT Delhi
-date: 2018
+
 ---
 
 **The system includes magnetic nanoparticles based capture and enrichment of Mycobacterium tuberculosis followed by a fluorescent read-out.**
