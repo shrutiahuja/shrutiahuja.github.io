@@ -74,7 +74,7 @@ The ENIG-PCB electrode was thoroughly characterised as a DNA sensor while studyi
 
 - Low-cost of implementation, with potential for integration into fully-automated surveillance systems.
 
-We also evaluated *DNA detection using probe-modified ENIG PCB electrodes*, using faradaic electrochemical impedance spectroscopy (EIS) to improve sensor sensitivity.
+We also evaluated **DNA detection using probe-modified ENIG PCB electrodes**, using faradaic electrochemical impedance spectroscopy (EIS) to improve sensor sensitivity.
 
 🔗 [*Published paper on this work*](https://doi.org/10.1016/j.biosx.2024.100569)
 
