@@ -32,9 +32,7 @@ Cellulose filter papers have also been explored for the purification of nucleic 
 
 - The **dipstick workflow** integrates thermal cell lysis, inspired by the HUDSON (Heating Unextracted Diagnostic Samples to Obliterate Nucleases) principle. Heat treatment lyses viral and bacterial particles while deactivating nucleases. The resulting lysate undergoes RNA capture on the dipstick, followed by washing and direct elution into the cDNA master mix for amplification. Optimization of RNase inhibition was critical to preserving RNA integrity and enabling efficient downstream amplification.
 
-<p align="center">
-  <img src="/assets/img/graphical_abstract.png" width="550">
-</p>
+![Workflow for PMF and dipstick based pathogen capture from wastewater samples](/assets/img/graphical_abstract.png)
 
 ## Product validation: Validating field-utility of dipstick method as per industrial standards
 
