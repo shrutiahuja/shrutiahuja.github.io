@@ -12,4 +12,4 @@ location: "St Xavier's College, Mumbai, India."
 (Fall semester,2023)
 
 Assisted Prof. Maya Murdeshwar in facilitating smooth course organization, grading papers, mentoring students, conducting tutorials and help sessions on molecular biology for sophomore students.
-[Letter of appreciation](/assets/pdf/TAship Xaviers.pdf) by Prof. Maya Murdeshwar. Lecture [feedback](/assets/pdf/feedback.pdf) from students. 
+[Letter of appreciation](/assets/pdf/TAshipXaviers.pdf) by Prof. Maya Murdeshwar. Lecture [feedback](/assets/pdf/feedback.pdf) from students. 
