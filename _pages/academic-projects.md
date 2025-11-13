@@ -11,7 +11,7 @@ The first successful implementation of wastewater surveillance occurred in 2003 
 
 **To address these constraints my research focuses on developing end-to-end wastewater surveillance platform technology.**
 
-## Developing paper dipstick and PTFE membrane filtration(PMF) method for pathogen capture and nucleic acid extraction from wastewater samples
+## Developing paper dipstick and PTFE membrane filtration (PMF) method for pathogen capture and nucleic acid extraction from wastewater samples
 
 🔗 [*Quick video link for dipstick method*](https://drive.google.com/file/d/15ZRzOavn9dTrZP22ZmL-JWBVlMZy3BsD/view?usp=drive_link)
 
