@@ -7,9 +7,7 @@ excerpt: "Developed and optimized an immuno-magnetic platform (iMC²/iAST) for r
 date: 2017-01-01
 ---
 
-**AutoGene is a rapid COVID-19 diagnostic platform developed during the early phase of the pandemic.**
-
-The system includes magnetic nanoparticles based capture and enrichment of viral RNA followed by a fluorescent end-point readout of the amplified product.
+**The system includes immuno-magnetic platform followed by a novel viability testing platform with afluorescent read-out.**
 
 Key highlights: 
 
