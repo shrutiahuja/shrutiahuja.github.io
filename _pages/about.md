@@ -55,7 +55,7 @@ I love working on real world-healthcare problems, optimizing and curating bioass
 
 I enjoy teaching and mentoring, having been a teaching assistant for several courses at NPTEL (National Programme on Technology Enhanced Learning) and St. Xavier's College, Mumbai including modules in molecular biology. I have also served as the teaching assistant for the LC-MS instrument at IIT Bombay. At the [CY-PHY lab](https://www.ee.iitb.ac.in/~stallur/index.php/), I have mentored several interns training them in real-time quantitative PCR, fluorescence microscopy, plasmid transformation, PAGE. Outside the lab, I am passionate about policy studies developing sustainability policies that can be implemented at the IIT Bombay campus as part of the Team Zero waste club. 
 
-I enjoy tinkering, designing prototypes on CAD softwares and 3D-printing. I love travelling, art and everything to do with nature. Chess and coffee happen to be my happy place :)
+I enjoy tinkering, designing prototypes on CAD softwares, and 3D-printing. I have designed a peristaltic pump, a microheater, and polymethyl methacrylate multichannel microfluidic chips. I love travelling, art and everything to do with nature. Chess and coffee happen to be my happy place :)
 
 ## News!
 
