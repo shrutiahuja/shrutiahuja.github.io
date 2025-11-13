@@ -13,7 +13,7 @@ The first successful implementation of wastewater surveillance occurred in 2003 
 
 ## Developing paper dipstick and PTFE membrane filtration(PMF) method for pathogen capture and nucleic acid extraction from wastewater samples
 
-🔗 *Quick video link for dipstick method*
+🔗 [*Quick video link for dipstick method*](https://drive.google.com/file/d/15ZRzOavn9dTrZP22ZmL-JWBVlMZy3BsD/view?usp=drive_link)
 
 🔗 [*Published paper on this work*](https://doi.org/10.1016/j.scitotenv.2024.170347) 
 
@@ -58,7 +58,7 @@ While the dipstick method proved effective for viral RNA, direct elution into th
 
 Conventional pathogen detection techniques rely on quantitative PCR (qPCR/qRT-PCR), the gold standard for sensitivity and specificity. However, these assays demand skilled personnel, controlled laboratory environments, and costly instrumentation—making large-scale, on-site deployment difficult. Low-cost nucleic-acid electrochemical biosensors offer a promising alternative, but conventional electrodes are often functionalized with complementary oligonucleotides, reducing the shelf life and stability of the sensor. To address this limitation, we developed a label-free electrochemical DNA-sensing approach using unmodified ENIG PCB electrodes with methylene blue (MB) as the redox indicator. A 5 µL MB–DNA complex was drop-casted on ENIG-PCB electrodes, and Differential Pulse Voltammetry (DPV) and Cyclic Voltammetry (CV) measurements were performed. The system successfully differentiated no-template controls, positive controls, and environmental Phi6 samples, confirming its capability for endpoint DNA quantification.
 
-![Workflow for DNA detection using ENIG-PCB electrodes](/assets/img/graphical_abstract.png) 
+![Workflow for DNA detection using ENIG-PCB electrodes](/assets/img/TOC(1).png) 
 
 ***Understanding the mechanism of ENIG-PCB electrochemical sensing***:
 
