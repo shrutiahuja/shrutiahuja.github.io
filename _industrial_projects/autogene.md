@@ -4,7 +4,8 @@ title: "AutoGene: Rapid COVID-19 Diagnosis from Nasopharyngeal Swabs"
 collection: industrial_projects
 permalink: /industrial-projects/autogene/
 excerpt: "Led the team to develop a rapid diagnostic platform for COVID-19 detection using magnetic-nanoparticle–based viral RNA capture and enrichment with an end-point fluorescent readout. The technology reached the Semi-finals of the International X-Prize Rapid COVID Testing Competition (2020), selected from teams across 35 participating countries."
-date: 2020-01-01
+venue: Valetude Primus Healthcare, IIT Delhi
+date: 2020
 ---
 
 **AutoGene is a rapid COVID-19 diagnostic platform developed during the early phase of the pandemic.**
