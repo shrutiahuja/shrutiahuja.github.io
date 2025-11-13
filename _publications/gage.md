@@ -9,6 +9,7 @@ venue: "Under Review"
 ---
 
 Developed and validated a paper dipstick workflow that isolates viral RNA directly from wastewater without centrifugation, filtration, or preprocessing. To confirm its reliability for field deployment, multiple operators processed wastewater samples, and variability was quantified using two-way ANOVA and crossed gage repeatability and reproducibility (gage R&R). The method consistently captured PMMoV reflecting temporal shifts in viral load associated with changes in population density.
+
 [Pre-print](https://www.medrxiv.org/content/10.1101/2024.11.07.24316947v1)
 
 
