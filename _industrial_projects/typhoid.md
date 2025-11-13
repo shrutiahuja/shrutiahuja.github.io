@@ -23,4 +23,4 @@ Key highlights:
 
 - Reduced the total diagnostic time from 2–5 days to ~5 hours, with iAST enabling antimicrobial susceptibility classification (Resistant, Intermediate, Susceptible) in 2 hours.
 
-- The work has received national visibility and was featured in several [leading newspapers] (https://www.thehindu.com/news/cities/Delhi/our-cost-effective-test-will-help-detect-typhoid-in-just-7-hours/article17463792.ece).
+- The work has received national visibility and was featured in several [leading newspapers](https://www.thehindu.com/news/cities/Delhi/our-cost-effective-test-will-help-detect-typhoid-in-just-7-hours/article17463792.ece).
