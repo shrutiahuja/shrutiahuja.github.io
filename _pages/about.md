@@ -15,8 +15,6 @@ I am currently seeking **postdoctoral opportunities** that leverage my interdisc
 
 Quick Links
 
-🔗 [CV]()
-
 🔗 [Ph.D. Research Overview](https://shrutiahuja.github.io/academic-projects/)
 
 🔗 [Projects from Valetude Primus Healthcare](https://shrutiahuja.github.io/industrial-projects/)
