@@ -5,13 +5,19 @@ permalink: /
 author_profile: true
 ---
 
-Hi! I am Shruti Ahuja, a Ph.D. Research Scholar at the Centre for Research in Nanotechnology & Sciences, Indian Institute of Technology Bombay. I am a [Prime Minister's Research Fellow](https://www.pmrf.in/) advised by [Prof. Kiran Kondabagil](https://www.bio.iitb.ac.in/people/faculty/kondabagil-k/) and [Prof. Siddharth Tallur](https://www.ee.iitb.ac.in/web/people/siddharth-tallur/). I have also closely collaborated with [Prof. Richa Pandey](https://profiles.ucalgary.ca/richa-pandey) to explore electrochemical sensing parameters for DNA detection.
+Hi! I am Shruti Ahuja, a Ph.D. Research Scholar at the Centre for Research in Nanotechnology & Sciences, Indian Institute of Technology Bombay. I am a [Prime Minister's Research Fellow](https://www.pmrf.in/) advised by [Prof. Kiran Kondabagil](https://www.bio.iitb.ac.in/people/faculty/kondabagil-k/) and [Prof. Siddharth Tallur](https://www.ee.iitb.ac.in/web/people/siddharth-tallur/). I have also closely collaborated with [Prof. Richa Pandey](https://profiles.ucalgary.ca/richa-pandey), University of Calgary, Canada to explore electrochemical sensing parameters for DNA detection.
 
 My research lies at the intersection of molecular diagnostics, wastewater surveillance, and electrochemical sensing to enable low-cost, rapid, field-deployable public-health surveillance systems. I have developed an end-to-end wastewater surveillance workflow from nucleic-acid capture and electrochemical DNA sensing to metagenomics. This work has been recognized nationally, notably being showcased on the PMRF website under [commendable inter-disciplinary research projects](https://www.pmrf.in/10-id-commendable-research-works). Internationally, I received the Best Poster Award at the ICGEB Pandemic Preparedness Conference (Italy) and a competitive bursary to present my work at the Oxford Pandemic Science Conference (UK).
 
-Prior to Ph.D., I was the R&D Lead and founding staff at [Valetude Primus Healthcare](https://www.linkedin.com/company/valetude-primus-healthcare/), a MedTech spin-off from IIT Delhi. I built and led a team of 10+ scientists and engineers while working closely with clinicians and stakeholders to develop affordable, state-of-the-art infectious-disease diagnostics for rural settings. This translational experience strengthened my commitment to finding the simplest practically deployable solutions for real-world health challenges. 
+Prior to Ph.D., I was the R&D Lead and founding team member at [Valetude Primus Healthcare](https://www.linkedin.com/company/valetude-primus-healthcare/), a MedTech spin-off from IIT Delhi. I worked with a team of over ten scientists and engineers, in close collaboration with clinicians and stakeholders to develop affordable diagnostics for lower midlle income countries with resource constrained settings. This experience strengthened my commitment to finding the simplest practically deployable solutions for real-world health challenges. 
 
-I am currently seeking **postdoctoral opportunities** that leverage my interdisciplinary experience in diagnostics, pathogen surveillance, and policy decision making to drive impactful public health solutions.
+I am currently seeking **postdoctoral opportunities** that build on my interdisciplinary experience in diagnostics, pathogen detection to create impactful public health solutions. Moving forward, I am keen to strengthen my wet-lab expertise while learning about pathogen surveillance techniques. 
+
+At present, 
+(a) I am testing the target-specific hydrolytic cleavage activity of group II C introns against the SARS-CoV-2 N1 gene,
+(b) I am analysing Illumina-sequenced 16S rRNA (V3–V4) data to compare microbial diversity and taxonomic abundance obtained using lab-developed extraction workflows versus Qiagen kit–based methods. In parallel, I am examining gut-associated and potentially pathogenic microbiome in wastewater samples collected from residential complexes across Mumbai.
+
+To collaborate or discuss my work please reach out at [shruti.ahuja@iitb.ac.in]() 
 
 Quick Links
 
@@ -19,9 +25,9 @@ Quick Links
 
 🔗 [Projects from Valetude Primus Healthcare](https://shrutiahuja.github.io/industrial-projects/)
 
-## Research Interests
+## A brief overview of my Ph.D. research
 
-*The research problems that I am currently exploring are:*
+*Developing a robust, low-cost end-to-end wastewater surveillance system using ENIG-PCB electrodes for LMICs*
 
 - **Paper-based pathogen concentration and nucleic-acid extraction from wastewater**
   - Developed rapid, low-cost paper-based pathogen capture and nucleic acid isolation from sub-millilitre (dipstick) to larger wastewater volumes (PTFE membrane filtration) with minimal preprocessing, achieving recovery comparable to commercial extraction kits without compromising amplification efficiency. Performed temporal surveillance to correlate PMMoV viral load with population density. Successfully detected SARS-CoV-2, *E.coli*, and bacteriophage Phi6.
@@ -40,13 +46,11 @@ Quick Links
 
 ***The research problems that I wish to explore in the future:***
 
-- Develop point-of-use rapid diagnostics for rapid infectious disease diagnosis.
+- Develop point-of-use rapid diagnostics to detect infectious diseases.
   
 - Pathogen surveillance using next generation sequencing understanding pathogen spillover, metagenomics, variant detection, and AMR profiling across clinical or environmental samples.
   
-- Data-driven public-health decision support and policy translation researching and proposing regulatory and ethical guidelines for the implementation of environmental surveillance data in public health policy.
-  
-I love working on real world-healthcare problems, optimizing and curating bioassays amenable to eventual integration with commercially viable platforms. My experience with [typhoid detection from blood and tuberculosis detection from sputum samples using immunomagnetic cell capture technique](https://shrutiahuja.github.io/industrial-projects/) piqued my interests in affordable diagnostics. I planned to continue my research on detecting bloodstream infections for my Ph.D. research however due to the restrictions on patient sample collections during the COVID-19 pandemic, I diverted my focus on environmental surveillance to create an end-to-end system that could be utilised as an early warning indicator for outbreak monitoring. 
+I am enthusiastic about working on real world-healthcare problems, optimizing and curating bioassays amenable to eventual integration with commercially viable platforms. My experience with [typhoid detection from blood and tuberculosis detection from sputum samples using immunomagnetic cell capture technique](https://shrutiahuja.github.io/industrial-projects/) piqued my interests in affordable diagnostics. During my Ph.D., I focused on devising simple, feasible solutions for wastewater monitoring in communities lacking adequate sanitation infrastructure and treatment facilities. My work primarily centred on microbial concentration and nucleic-acid extraction strategies, which I integrated with field-portable thermocyclers for on-site pathogen detection, further strengthing my interest in creating cost-effective solutions for LMICs.  
 
 
 ## Additional Interests
@@ -56,6 +60,7 @@ I enjoy teaching and mentoring, having been a teaching assistant for several cou
 I enjoy tinkering, designing prototypes on CAD softwares, and 3D-printing. I have designed a peristaltic pump, a microheater, and polymethyl methacrylate multichannel microfluidic chips. I love travelling, art and everything to do with nature. Chess and coffee happen to be my happy place :)
 
 ## News!
+**Dec 2025** - Accepted for Lecture presentation at the 2026 IEEE Applied Sensing Conference, New Delhi.
 
 **June 2025** - Received competitive bursary to present my work on end-to-end wastewater surveillance at Oxford Pandemic Science Conference (UK).
 
