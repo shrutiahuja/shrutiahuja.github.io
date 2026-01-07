@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.industrial_projects reversed %}
+{% assign projects = site.industrial_projects | sort: "date" | reverse %}
+{% for post in projects %}
   {% include archive-single.html %}
 {% endfor %}
