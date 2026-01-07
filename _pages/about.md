@@ -14,6 +14,7 @@ Prior to Ph.D., I was the R&D Lead and founding team member at [Valetude Primus 
 I am currently seeking **postdoctoral opportunities** that build on my interdisciplinary experience in diagnostics, pathogen detection to create impactful public health solutions. Moving forward, I am keen to strengthen my wet-lab expertise while learning about pathogen surveillance techniques. 
 
 At present, 
+
 (a) I am testing the target-specific hydrolytic cleavage activity of group II C introns against the SARS-CoV-2 N1 gene,
 (b) I am analysing Illumina-sequenced 16S rRNA (V3–V4) data to compare microbial diversity and taxonomic abundance obtained using lab-developed extraction workflows versus Qiagen kit–based methods. In parallel, I am examining gut-associated and potentially pathogenic microbiome in wastewater samples collected from residential complexes across Mumbai.
 
