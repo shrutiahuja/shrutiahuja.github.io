@@ -17,7 +17,7 @@ At present,
 (a) I am testing the target-specific hydrolytic cleavage activity of group II C introns against the SARS-CoV-2 N1 gene,
 (b) I am analysing Illumina-sequenced 16S rRNA (V3–V4) data to compare microbial diversity and taxonomic abundance obtained using lab-developed extraction workflows versus Qiagen kit–based methods. In parallel, I am examining gut-associated and potentially pathogenic microbiome in wastewater samples collected from residential complexes across Mumbai.
 
-To collaborate or discuss my work please reach out at [shruti.ahuja@iitb.ac.in]() 
+To collaborate or discuss my work please reach out at [shruti.ahuja@iitb.ac.in](mailto:shruti.ahuja@iitb.ac.in) 
 
 Quick Links
 
