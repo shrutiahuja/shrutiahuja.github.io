@@ -7,17 +7,18 @@ author_profile: true
 
 Hi! I am Shruti Ahuja, a Ph.D. Research Scholar at the Centre for Research in Nanotechnology & Sciences, Indian Institute of Technology Bombay. I am a [Prime Minister's Research Fellow](https://www.pmrf.in/) advised by [Prof. Kiran Kondabagil](https://www.bio.iitb.ac.in/people/faculty/kondabagil-k/) and [Prof. Siddharth Tallur](https://www.ee.iitb.ac.in/web/people/siddharth-tallur/). I have also closely collaborated with [Prof. Richa Pandey](https://profiles.ucalgary.ca/richa-pandey), University of Calgary, Canada, to explore electrochemical sensing parameters for DNA detection.
 
-My research lies at the intersection of molecular diagnostics, wastewater surveillance, and electrochemical sensing to enable low-cost, rapid, field-deployable public-health surveillance systems. I have developed an end-to-end wastewater surveillance workflow from nucleic-acid capture and electrochemical DNA sensing to metagenomics. This work has been recognized nationally, notably being showcased on the PMRF website under [commendable inter-disciplinary research projects](https://www.pmrf.in/10-id-commendable-research-works). Internationally, I received the Best Poster Award at the ICGEB Pandemic Preparedness Conference (Italy) and a competitive bursary to present my work at the Oxford Pandemic Science Conference (UK).
+My [Ph.D.](https://shrutiahuja.github.io/academic-projects/) research lies at the intersection of molecular diagnostics and electrochemical sensing to enable low-cost, rapid, field-deployable wastewater monitoring systems. I have developed an end-to-end wastewater testing workflow from nucleic-acid capture and electrochemical DNA sensing to metagenomics. This work has been recognized nationally, notably being showcased on the PMRF website under [commendable inter-disciplinary research projects](https://www.pmrf.in/10-id-commendable-research-works). Internationally, I received the Best Poster Award at the ICGEB Pandemic Preparedness Conference (Italy) and a competitive bursary to present my work at the Oxford Pandemic Science Conference (UK).
 
-Prior to Ph.D., I was the R&D Lead and founding team member at [Valetude Primus Healthcare](https://www.linkedin.com/company/valetude-primus-healthcare/), a MedTech spin-off from IIT Delhi. I worked with a team of over ten scientists and engineers, in close collaboration with clinicians and stakeholders to develop affordable diagnostics for lower midlle income countries with resource constrained settings. This experience strengthened my commitment to finding the simplest practically deployable solutions for real-world health challenges. 
+Prior to Ph.D., I was the R&D Lead and founding team member at [Valetude Primus Healthcare](https://www.linkedin.com/company/valetude-primus-healthcare/), a MedTech spin-off from IIT Delhi. I worked in close collaboration with clinicians and stakeholders to develop affordable diagnostics for rapid detection of infectious diseases including typhoid (including antibiotic suscptibility testing), tuberculosis, and COVID-19 designed for remote areas with minimal laboratory infrastructure. This experience strengthened my commitment to finding the simplest practically deployable solutions for real-world health challenges. 
 
 I am currently seeking **postdoctoral opportunities** that build on my interdisciplinary experience in diagnostics, pathogen detection to create impactful public health solutions. Moving forward, I am keen to strengthen my wet-lab expertise while learning about pathogen surveillance techniques. 
 
 At present, 
 
-(a) I am testing the target-specific hydrolytic cleavage activity of group II C introns against the SARS-CoV-2 N1 gene,
+(a) I am analysing Illumina-sequenced 16S rRNA (V3–V4) data to compare microbial diversity and taxonomic abundance obtained using lab-developed extraction workflows versus Qiagen kit–based methods. In parallel, I am examining gut-associated and potential pathogenic microbiome in wastewater samples collected from residential complexes across Mumbai, 
 
-(b) I am analysing Illumina-sequenced 16S rRNA (V3–V4) data to compare microbial diversity and taxonomic abundance obtained using lab-developed extraction workflows versus Qiagen kit–based methods. In parallel, I am examining gut-associated and potentially pathogenic microbiome in wastewater samples collected from residential complexes across Mumbai.
+(b) I am testing target-specific hydrolytic cleavage activity of group II C introns against the SARS-CoV-2 N1 gene.
+
 
 To collaborate or discuss my work please reach out at [shruti.ahuja@iitb.ac.in](mailto:shruti.ahuja@iitb.ac.in) 
 
@@ -29,14 +30,14 @@ Quick Links
 
 ## A brief overview of my Ph.D. research
 
-*Developing a robust, low-cost end-to-end wastewater surveillance system using ENIG-PCB electrodes for LMICs*
+*Developing a robust, low-cost end-to-end wastewater surveillance system for LMICs*
 
 - **Paper-based pathogen concentration and nucleic-acid extraction from wastewater**
-  - Developed rapid, low-cost paper-based pathogen capture and nucleic acid isolation from sub-millilitre (dipstick) to larger wastewater volumes (PTFE membrane filtration) with minimal preprocessing, achieving recovery comparable to commercial extraction kits without compromising amplification efficiency. Performed temporal surveillance to correlate PMMoV viral load with population density. Successfully detected SARS-CoV-2, *E.coli*, and bacteriophage Phi6.
+  - Developed rapid, low-cost paper-based pathogen capture and nucleic acid isolation from sub-millilitre (dipstick) to larger wastewater volumes (PTFE membrane filtration) with minimal preprocessing, achieving recovery comparable to commercial extraction kits without compromising amplification efficiency. Performed temporal surveillance to correlate pepper mild mottle virus (PMMoV) load with population density. Successfully detected SARS-CoV-2, *E.coli*, and bacteriophage Phi6.
 
 - **Product validation: Assessing reproducibility of paper-based nucleic-acid extraction for field deployment using multi-operator variability studies**
 
-  - Conducted multi-operator two-way ANOVA and crossed Gage repeatability and reproducibility statistical analysis to ensure that the manual nature of the paper dipstick method had acceptable variability as per industrial standards across users and wastewater samples. 
+  - Conducted multi-operator two-way ANOVA and crossed Gage repeatability and reproducibility statistical analysis to ensure that the manual nature of the paper dipstick method had acceptable variability as per industrial standards across users and wastewater samples. The method resulted in ~20% total variability, well below the industrial benchmark of 30%, supporting its suitability for field use.
 
 - **Electrochemical sensing for nucleic-acid detection using Electroless Nickel Immersion Gold (ENIG) PCB electrodes**
 
@@ -44,13 +45,13 @@ Quick Links
 
 - **Metagenomic Surveillance (on-going)**
 
-  - Optimizing bacterial concentration and DNA capture using paper dipsticks for 16S rRNA sequencing and metagenomic profiling of wastewater samples from residential areas in Mumbai, India.
+  - Optimized bacterial concentration and DNA capture using paper dipsticks and PTFE membrane filtration method(PMF) for 16S rRNA sequencing for microbial profiling of wastewater samples from residential areas in Mumbai, India. Identified ~250 taxa across multiple phyla, comparing the microbial diversity and relative abundances obtained from the dipstick and PMF extraction workflows against commercial kit–based method.
 
 ***The research problems that I wish to explore in the future:***
 
-- Develop point-of-use rapid diagnostics to detect infectious diseases.
+- Develop low-cost rapid diagnostic platforms to detect infectious diseases in regions lacking basic laboratory infrastructure.
   
-- Pathogen surveillance using next generation sequencing understanding pathogen spillover, metagenomics, variant detection, and AMR profiling across clinical or environmental samples.
+- Microbial surveillance using metagenomics to detect emerging pathogens and AMR transmission across clinical or environmental samples.
   
 I am enthusiastic about working on real world-healthcare problems, optimizing and curating bioassays amenable to eventual integration with commercially viable platforms. My experience with [typhoid detection from blood and tuberculosis detection from sputum samples using immunomagnetic cell capture technique](https://shrutiahuja.github.io/industrial-projects/) piqued my interests in affordable diagnostics. During my Ph.D., I focused on devising simple, feasible solutions for wastewater monitoring in communities lacking adequate sanitation infrastructure and treatment facilities. My work primarily centred on microbial concentration and nucleic-acid extraction strategies, which I integrated with field-portable thermocyclers for on-site pathogen detection, further strengthing my interest in creating cost-effective solutions for LMICs.  
 
