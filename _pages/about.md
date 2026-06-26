@@ -11,7 +11,7 @@ My [Ph.D.](https://shrutiahuja.github.io/academic-projects/) research lies at th
 
 Prior to Ph.D., I was the R&D Lead and founding team member at [Valetude Primus Healthcare](https://www.linkedin.com/company/valetude-primus-healthcare/), a MedTech spin-off from IIT Delhi. I worked in close collaboration with clinicians and stakeholders to develop affordable diagnostics for rapid detection of infectious diseases including typhoid (including antibiotic suscptibility testing), tuberculosis, and COVID-19 designed for remote areas with minimal laboratory infrastructure. This experience strengthened my commitment to finding the simplest practically deployable solutions for real-world health challenges. 
 
-I am currently seeking **postdoctoral opportunities** that build on my interdisciplinary experience in diagnostics, pathogen detection to create impactful public health solutions. Moving forward, I am keen to strengthen my wet-lab expertise while learning about pathogen surveillance techniques. 
+I am currently seeking **academic positions** that build on my interdisciplinary experience in diagnostics, pathogen detection to create impactful public health solutions. Moving forward, I am keen to strengthen my wet-lab expertise while learning about pathogen surveillance techniques. 
 
 At present, 
 
